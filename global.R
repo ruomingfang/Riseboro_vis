@@ -28,7 +28,7 @@ lookupsensor <- list("1D"="1D","2D"="2D","3D"="3D","4D"="4D","Boiler Room" = "Bo
 
 
 # getdata
-filenames <- list.files(path = "./Data02130601",pattern = "csv",full.names = TRUE)
+filenames <- list.files(path = "./Data02121110",pattern = "csv",full.names = TRUE)
 data = data.frame()
 for (f in filenames){
   name = tools::file_path_sans_ext(basename(f))
