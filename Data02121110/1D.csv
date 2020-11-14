@@ -1,0 +1,1 @@
+,id,timestamp,timestamp_local,sn,raw_table_id,temp_box,temp_manifold,rh_manifold,pressure,noise,solar,wind_dir,wind_speed,co2,voc,co,no,no2,o3,pm1,pm25,pm10,lat,lon,device_state,co2_model_id,voc_model_id,co_model_id,no_model_id,no2_model_id,o3_model_id,pm1_model_id,pm25_model_id,pm10_model_id
